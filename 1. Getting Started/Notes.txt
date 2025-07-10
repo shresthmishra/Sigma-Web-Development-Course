@@ -1,0 +1,3 @@
+We got to know how to install VS Code and install various plugins such as Jellyfish theme, Github theme, Live Preview and VSCode Icons.
+
+Also enabled the mouse scroll zoom.
