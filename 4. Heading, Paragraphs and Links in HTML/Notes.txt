@@ -1,0 +1,3 @@
+Got to know about Lorem Ipsum trick in VS Code.
+
+Created a small Bookmark manager with the help of Anchor tag <a> as well Paragraph tag <p>.
