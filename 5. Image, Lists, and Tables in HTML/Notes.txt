@@ -1,0 +1,9 @@
+- Learned <img> tag.
+Image has src attribute.
+Alt attribute helps in giving description to the image.
+
+- Went through how Tables work in HTML.
+We can add caption.
+Row-span and Column-span.
+
+- Got to know 'bout Lists (Ordered, Unordered and Definition).
