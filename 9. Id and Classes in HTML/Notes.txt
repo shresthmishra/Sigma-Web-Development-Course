@@ -1,0 +1,1 @@
+- We use hash # to target Ids and dot . for Classes.
