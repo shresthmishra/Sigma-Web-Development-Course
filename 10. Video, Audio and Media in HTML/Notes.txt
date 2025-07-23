@@ -1,2 +1,3 @@
 - <video> tag helps in putting a video on the webpage.
 - controls attribute adds media controls into the page.
+- poster attributes adds an image (thumbnail) showing when the video hasn't started yet.
