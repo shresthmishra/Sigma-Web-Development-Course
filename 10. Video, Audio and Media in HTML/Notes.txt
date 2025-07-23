@@ -1,1 +1,2 @@
 - <video> tag helps in putting a video on the webpage.
+- controls attribute adds media controls into the page.
